@@ -1,7 +1,6 @@
-Vote server
+# Vote server
 
 
-Objective
----------
+## Objective
 
 This is an educational repository
